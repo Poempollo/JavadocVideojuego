@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"javadoc.VideojuegoRPG","l":"Enemigo"},{"p":"javadoc.VideojuegoRPG","l":"Jugador"},{"p":"javadoc.VideojuegoRPG","l":"Main"}];updateSearchResults();
